@@ -1,0 +1,8 @@
+"This is  a new feature"
+<<<<<<< HEAD
+this is from another user
+=======
+this is it 2
+
+this f1 branch
+>>>>>>> 9f323b526ffefa13a16145a6aca359fd01380bea
